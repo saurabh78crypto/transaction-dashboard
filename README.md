@@ -36,7 +36,7 @@ Before setting up the project, ensure that you have the following installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone 
+   git clone https://github.com/saurabh78crypto/transaction-dashboard.git 
    cd transaction-dashboard
    ```
 
